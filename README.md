@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itrofi31
+- 👀 I’m interested in travelling and web technologies
+- 🌱 I’m currently learning html css and JS
+- 📫 How to reach me itrofi31@gmail.com
