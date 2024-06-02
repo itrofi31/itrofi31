@@ -1,4 +1,4 @@
-## Ivan Softaware developer
+## Ivan Software developer
 
 - 👋 Hi, I’m Ivan software developer
 - 📫 How to reach me itrofi31@gmail.com
