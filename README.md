@@ -19,5 +19,7 @@ My projects:
 
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
+
+| [IMDB clone](https://github.com/itrofi31/imdb-clone-app)| Study project developing imdb clone |React, hooks, JS, Async |
 | [MineSweeper](https://github.com/itrofi31/MineSweeper_Game)| This project is about Minesweeper game | JS, OOP, HTML, CSS|
 | [Virtual_keyboard](https://github.com/itrofi31/virtual-keyboard)| Building virtual keyboard, working with js + html| JS, OOP, HTML, CSS|
