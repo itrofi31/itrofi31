@@ -10,6 +10,7 @@ My projects:
 
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
+| [Brick_game_v2.0](https://github.com/itrofi31/s21_BrickGame_v2.0)| This project is about snake and tetris games. Cli and desktop versions available | CPP, C, QT|
 | [Matrix+](https://github.com/itrofi31/s21_Matrix_plus/tree/develop)| Implementing OOP in a matrix library | C++, objected oriented programming, Google test|
 | [Brick_game_v1.0](https://github.com/itrofi31/s21_BrickGame_v1.0)| This project is about tetris game | C, structured programming, Malloc|
 | [Matrix](https://github.com/itrofi31/s21_Matrix)| Creating a library for matrix operations | C, Makefile, Malloc|
